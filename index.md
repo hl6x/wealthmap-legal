@@ -1,4 +1,4 @@
-th# Privacy Policy for WealthMap
+## Privacy Policy for WealthMap
 **Last Updated: May 2026**
 
 Capital Forecast is committed to protecting your privacy. This policy explains how we handle data.
