@@ -1,11 +1,11 @@
-# Privacy Policy for Capital Forecast
+th# Privacy Policy for WealthMap
 **Last Updated: May 2026**
 
 Capital Forecast is committed to protecting your privacy. This policy explains how we handle data.
 
 ### 1. 100% Offline Operation
 Your data stays on your device. 
-Capital Forecast does not collect, store, or share any personal financial information. 
+WealthMap does not collect, store, or share any personal financial information. 
 * We do not collect, store, or transmit any of your personal data or content to external servers.
 * All capital forecast you create renain strictly on your device.
 
